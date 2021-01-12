@@ -1,8 +1,8 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using Week01_Intro;
+using Week01_1_Intro;
 
-namespace Week01_Intro_UnitTests
+namespace Week01_2_Intro_UnitTests
 {
     [TestClass]
     public class UnitTest1

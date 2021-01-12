@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Week01_Intro
+namespace Week01_1_Intro
 {
     public class SampleClass
     {
