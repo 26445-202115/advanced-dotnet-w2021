@@ -49,11 +49,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week06", "Week06", "{B9A6F3
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week07", "Week07", "{E07A94D2-4FB7-4AD1-9E26-1BC6A7BB819E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week06_1_AsyncProgrammingModel", "Week06_1_AsyncProgrammingModel\Week06_1_AsyncProgrammingModel.csproj", "{04508160-0358-493A-8A50-6C42B987874B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week06_1_AsyncProgrammingModel", "Week06_1_AsyncProgrammingModel\Week06_1_AsyncProgrammingModel.csproj", "{04508160-0358-493A-8A50-6C42B987874B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week06_2_AsyncDatabaseAccess", "Week06_2_AsyncDatabaseAccess\Week06_2_AsyncDatabaseAccess.csproj", "{3E3C1234-273F-41E4-9D9E-4E448E07A978}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week06_2_AsyncDatabaseAccess", "Week06_2_AsyncDatabaseAccess\Week06_2_AsyncDatabaseAccess.csproj", "{3E3C1234-273F-41E4-9D9E-4E448E07A978}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week06_3_TaskBasedAsyncPattern", "Week06_3_TaskBasedAsyncPattern\Week06_3_TaskBasedAsyncPattern.csproj", "{CECDE506-62AD-458D-9FC1-997EE2F3C65D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week06_3_TaskBasedAsyncPattern", "Week06_3_TaskBasedAsyncPattern\Week06_3_TaskBasedAsyncPattern.csproj", "{CECDE506-62AD-458D-9FC1-997EE2F3C65D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week07_1_HttpListenerEx", "Week07_1_HttpListenerEx\Week07_1_HttpListenerEx.csproj", "{D79CAC45-4FDB-40CB-ADA6-7F05BA72C1BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -137,6 +139,10 @@ Global
 		{CECDE506-62AD-458D-9FC1-997EE2F3C65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CECDE506-62AD-458D-9FC1-997EE2F3C65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CECDE506-62AD-458D-9FC1-997EE2F3C65D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D79CAC45-4FDB-40CB-ADA6-7F05BA72C1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79CAC45-4FDB-40CB-ADA6-7F05BA72C1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79CAC45-4FDB-40CB-ADA6-7F05BA72C1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79CAC45-4FDB-40CB-ADA6-7F05BA72C1BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -161,6 +167,7 @@ Global
 		{04508160-0358-493A-8A50-6C42B987874B} = {B9A6F3B9-410B-4480-8B9F-4B155985E592}
 		{3E3C1234-273F-41E4-9D9E-4E448E07A978} = {B9A6F3B9-410B-4480-8B9F-4B155985E592}
 		{CECDE506-62AD-458D-9FC1-997EE2F3C65D} = {B9A6F3B9-410B-4480-8B9F-4B155985E592}
+		{D79CAC45-4FDB-40CB-ADA6-7F05BA72C1BF} = {E07A94D2-4FB7-4AD1-9E26-1BC6A7BB819E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {64BC8012-B873-4BC7-8770-2C092AC3E4BB}
