@@ -73,6 +73,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week08_1_SignalREx", "Week0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week08_2_WebSockets", "Week08_2_WebSockets\Week08_2_WebSockets.csproj", "{0B56C740-8A9D-47DF-94E6-A9ED7246533A}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week09_1_MultithreadinEx", "Week09_1_MultithreadinEx\Week09_1_MultithreadinEx.csproj", "{10210895-A5D6-4F74-967F-5B6170FC146B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{0B56C740-8A9D-47DF-94E6-A9ED7246533A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B56C740-8A9D-47DF-94E6-A9ED7246533A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B56C740-8A9D-47DF-94E6-A9ED7246533A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10210895-A5D6-4F74-967F-5B6170FC146B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10210895-A5D6-4F74-967F-5B6170FC146B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10210895-A5D6-4F74-967F-5B6170FC146B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10210895-A5D6-4F74-967F-5B6170FC146B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -214,6 +220,7 @@ Global
 		{8244304B-7FBB-4914-B82F-E0A04087AB96} = {E07A94D2-4FB7-4AD1-9E26-1BC6A7BB819E}
 		{02D4E3AA-78A0-4A6C-A695-2EB90575B8CA} = {01858BA4-278C-4D28-8C4C-887EEB067D11}
 		{0B56C740-8A9D-47DF-94E6-A9ED7246533A} = {01858BA4-278C-4D28-8C4C-887EEB067D11}
+		{10210895-A5D6-4F74-967F-5B6170FC146B} = {4A2BC489-2375-437C-ACB5-1E41A70DF9D7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {64BC8012-B873-4BC7-8770-2C092AC3E4BB}
